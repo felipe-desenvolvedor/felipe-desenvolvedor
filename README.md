@@ -15,12 +15,18 @@
 - 🔎 Procuro minha **primeira** oportunidade, para mostrar pro mundo que eu posso
      tornar ele melhor atráves da **tecnologia**.
 - 🔴 Venha conhecer melhor meus projetos, acesse o meu portfólio clicando [AQUI](https://felipe-desenvolvedor.github.io/portfolio-web/).
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-desenvolvedor&theme=merko&hide_langs_below=1" />
+</a>
  
-  <h2 align="left"> Contato </h1>
+ <h2 align="left"> Contato </h1>
     <a href="https://www.linkedin.com/in/felipe-machado-a10a47252/" alt="Linkedin">
       <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
     </a>
  
-     <a href="https://www.instagram.com/_fmachado_silva/" alt="Instagram">
+   <a href="https://www.instagram.com/_fmachado_silva/" alt="Instagram">
      <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-   </p>  
+  </p>  
