@@ -3,9 +3,9 @@
       align="right"
       height="590em"
   />
- <h1 align="center"> 👋​ Olá, me chamo Felipe</h1>
+ <h1 align="left"> 👋 Olá, me chamo Felipe </h1> 
 
-- 🔨 Desenvolvedor Front-End focado no ecossistema do **React**; 
+- 👨‍💻 Desenvolvedor Front-End focado no ecossistema do **React**; 
  
 - ❤️  Interesse em  **Design** e  **Back-End** ; 
 
@@ -16,17 +16,24 @@
      tornar ele melhor atráves da **tecnologia**.
 - 🔴 Venha conhecer melhor meus projetos, acesse o meu portfólio clicando [AQUI](https://felipe-desenvolvedor.github.io/portfolio-web/).
 
-## **GitHub Estatísticas**
+<br/><br/><br/>
+
+ <h2 align="left"> 📈 GitHub Estatísticas</h2>
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-desenvolvedor&theme=merko&hide_langs_below=1" />
 </a>
- 
- <h2 align="left"> Contato </h1>
+
+ <br/><br/>
+ <h2 align="left"> 📞Contato </h2>
     <a href="https://www.linkedin.com/in/felipe-machado-a10a47252/" alt="Linkedin">
       <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
     </a>
  
    <a href="https://www.instagram.com/_fmachado_silva/" alt="Instagram">
-     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-  </p>  
+     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/>
+   </a>
+ 
+ <a href="https://api.whatsapp.com/send?phone=5551998844381&text=Olá, bora falar de programação :)" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/>
+ </a>
