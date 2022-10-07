@@ -1,5 +1,5 @@
  <img
-      src="https://raw.githubusercontent.com/gist/felipe-desenvolvedor/ea03b90386a64fc14d46368273cf77e8/raw/145e898ffe0e1ae45706ad8e8fc4a8f59ae15133/card.svg"
+      src="https://raw.githubusercontent.com/gist/felipe-desenvolvedor/7a2ddd939632f74ee801fac40ffa4ae9/raw/498c777be253f1780a65b029fed8fe9a0c06e034/card-git.svg"
       align="right"
       height="590em"
   />
@@ -14,3 +14,13 @@
    
 - 🔎 Procuro minha **primeira** oportunidade, para mostrar pro mundo que eu posso
      tornar ele melhor atráves da **tecnologia**.
+- 🔴 Venha conhecer melhor meus projetos, acesse o meu portfólio clicando [AQUI](https://felipe-desenvolvedor.github.io/portfolio-web/).
+ 
+  <h2 align="left"> Contato </h1>
+    <a href="https://www.linkedin.com/in/felipe-machado-a10a47252/" alt="Linkedin">
+      <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+    </a>
+ 
+     <a href="https://www.instagram.com/_fmachado_silva/" alt="Instagram">
+     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+   </p>  
